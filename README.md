@@ -1,4 +1,4 @@
-## Hi,I'm Sety 👋
+## Hi, I'm Sety 👋
 
 ECE @ Cornell | Aspiring Research Engineer in ML & RL
 
